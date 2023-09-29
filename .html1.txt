@@ -1,0 +1,30 @@
+                                                                              Core HTML
+                                                                            Assignment:-2
+
+ Question: 01 Build a simple webpage that displays text as shown in the below image.
+ Solution: 01 INPUT CODE :-
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+</head>
+<body>
+        <p>
+        <b> This text will be bolded. </b>
+        </p>
+        <p>
+        <i> This text will be italic. </i>
+        </p>
+        <p>
+        <ins> This text will be underlined</ins>
+        </p>
+        <mark> This text will be highlighted </mark>
+        <p>
+        This is normal text<sup> This will be super scripted </sup> This is normal
+        again
+        </p>
+        <p>This is normal text <sub> This text will be subscripted </sub></p>
+        <p>Normal Text <small> Smal Text </small></p>
+        <p><del> This text will be deleted</del></p>
+</body>
+</html>
